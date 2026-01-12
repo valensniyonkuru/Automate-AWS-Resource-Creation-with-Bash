@@ -32,13 +32,15 @@ Task 3: Security Group Automation
 Task 4: S3 Bucket Automation
 -----------------------------
 
-<img width="1291" height="123" alt="image" src="https://github.com/user-attachments/assets/df913171-0aa9-43b0-bea7-069ea2ed8ad8" />
+<img width="1291" height="123" alt="image" src="https://github.com/user-attachments/assets/c31282a6-7f21-42fb-bc22-69bf56ad6de6" />
 
-<img width="1291" height="123" alt="image" src="https://github.com/user-attachments/assets/f21294e6-811d-4846-9cda-a99383cec232" />
+<img width="1390" height="783" alt="image" src="https://github.com/user-attachments/assets/6cdbeaac-ad2f-447f-890f-e610b895069d" />
 
-<img width="1351" height="387" alt="image" src="https://github.com/user-attachments/assets/3ba79ac1-a21e-485b-8dda-d66379864411" />
+<img width="1351" height="387" alt="image" src="https://github.com/user-attachments/assets/293eb888-55c0-46a7-af42-1eb0157eb2d6" />
 
-<img width="1351" height="387" alt="image" src="https://github.com/user-attachments/assets/d1a221f8-2e1e-4464-a95d-65eda85bff98" />
+<img width="1915" height="847" alt="image" src="https://github.com/user-attachments/assets/43de7a9e-83b8-4cec-a15d-356b5d7d6508" />
+
+
 
 Task 5: Cleanup Script
 ----------------------
